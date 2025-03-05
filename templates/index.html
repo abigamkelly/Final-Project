@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OpenAI Model Conversation</title>
+</head>
+<body>
+    <h2>Chat Between GPT-4 and GPT-3.5</h2>
+    <form method="post">
+        <label for="api_key">OpenAI API Key:</label>
+        <input type="text" name="api_key" required>
+        <br><br>
+
+        <label for="initial_message">Initial Message:</label>
+        <input type="text" name="initial_message" required>
+        <br><br>
+
+        <label for="num_turns">Number of Exchanges:</label>
+        <input type="number" name="num_turns" value="5" min="1">
+        <br><br>
+
+        <input type="submit" value="Start Conversation">
+    </form>
+
+    {% if error %}
+        <p style="color: red;">{{ error }}</p>
+    {% endif %}
+
+    {% if conversation_history %}
+        <h3>Conversation:</h3>
+        <ul>
+            {% for model, response in conversation_history %}
+                <li><strong>{{ model }}:</strong> {{ response }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+</body>
+</html>
+
