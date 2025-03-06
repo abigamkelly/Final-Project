@@ -4,19 +4,20 @@ from openai import OpenAI  # Correct import for OpenAI SDK
 app = Flask(__name__)
 
 # Define the two models
-MODEL_A = "gpt-4o"  # Critic
-MODEL_B = "gpt-4o"  # Initiator
+MODEL_A = "gpt-4o-mini"  # Critic
+MODEL_B = "gpt-4o-mini"  # Initiator
 
 # System instructions for each model
 SYSTEM_INITIATOR = (
-    "You are the Initiator. You start or continue a conversation with creative ideas, "
-    "questions, or statements.  Keep the responses short."
+    #"You are the Initiator. You start or continue a conversation with creative ideas, "
+    #"questions, or statements."
+    "keep the response short: "
 )
 SYSTEM_INITIATOR2 = (
-    " Based on the previous response, update your response. "
+    " Based on the this response by a critic (do not respond to the critic), update your response (you may disagree as well). "
    )
 SYSTEM_CRITIC = (
-    "You are the Critic. You read the Initiator's last message and tell them how to update their response to make it more accurate."
+        "You are the Critic. considering your previous critics, criticize this response. keep the response short: "
 )
 
 @app.route("/", methods=["GET", "POST"])
