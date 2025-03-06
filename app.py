@@ -9,13 +9,14 @@ MODEL_B = "gpt-4o"  # Initiator
 
 # System instructions for each model
 SYSTEM_INITIATOR = (
-    "Suppose a=2 "
+    "You are the Initiator. You start or continue a conversation with creative ideas, "
+    "questions, or statements.  Keep the responses short."
 )
 SYSTEM_INITIATOR2 = (
-    " what is 5*a?"
+    " Based on the previous response, update your response. "
    )
 SYSTEM_CRITIC = (
-    "just reply what is '2*a?' "
+    "You are the Critic. You read the Initiator's last message and tell them how to update their response to make it more accurate."
 )
 
 @app.route("/", methods=["GET", "POST"])
@@ -65,7 +66,7 @@ def index():
                 # **Critic Block**
                 model = MODEL_A
                 system_prompt = SYSTEM_CRITIC
-                message2 = system_prompt# + message1  # Provide Initiator's response to the Critic
+                message2 = system_prompt + message1  # Provide Initiator's response to the Critic
                 
                 conversation_history2.append({"role": "user", "content": message2})
 
