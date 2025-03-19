@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GPT Conversation</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background: #f9f9f9;
+    }
+    form {
+      background: #fff;
+      padding: 15px;
+      border-radius: 5px;
+      box-shadow: 0 0 5px rgba(0,0,0,0.1);
+      margin-bottom: 20px;
+    }
+    label {
+      font-weight: bold;
+    }
+    input[type="text"],
+    input[type="number"] {
+      width: 300px;
+      padding: 8px;
+      margin-top: 5px;
+    }
+    input[type="submit"] {
+      padding: 10px 20px;
+      font-size: 16px;
+      margin-top: 10px;
+      cursor: pointer;
+    }
+    .error {
+      color: red;
+      font-weight: bold;
+    }
+    .conversation {
+      background: #fff;
+      padding: 15px;
+      border-radius: 5px;
+      box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    }
+    .message {
+      margin-bottom: 10px;
+      padding: 8px;
+      border-bottom: 1px solid #ddd;
+    }
+    .message:last-child {
+      border-bottom: none;
+    }
+    /* Optional styling to differentiate speakers */
+    .User { background: #e7f4ff; }
+    .Initiator { background: #e6ffe6; }
+    .Critic { background: #ffe6e6; }
+  </style>
+</head>
+<body>
+  <h2>Chat Between GPT-4o and GPT-4o</h2>
+  <form method="post">
+    <label for="api_key">OpenAI API Key:</label><br>
+    <input type="text" name="api_key" required><br><br>
+
+    <label for="initial_message">Initial Message:</label><br>
+    <input type="text" name="initial_message" required><br><br>
+
+    <label for="num_turns">Number of Exchanges:</label><br>
+    <input type="number" name="num_turns" value="5" min="1"><br><br>
+
+    <input type="submit" value="Start Conversation">
+  </form>
+
+  {% if error %}
+    <p class="error">{{ error }}</p>
+  {% endif %}
+
+  {% if conversation_history %}
+    <h3>Conversation:</h3>
+    <div class="conversation">
+      {% for entry in conversation_history %}
+        {% for speaker, message in entry.items() %}
+          <div class="message {{ speaker }}">
+            <strong>{{ speaker }}:</strong> {{ message }}
+          </div>
+        {% endfor %}
+      {% endfor %}
+    </div>
+  {% endif %}
+</body>
+</html>
