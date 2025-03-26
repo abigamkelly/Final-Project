@@ -1,106 +1,72 @@
-tweet,classification,confidence
-is making india great  amp  also as the most admired countries in the world  indiawithnepal  yug,0,0.7
-thank s for our indian government who steped forward stretching their hand n helping  nepal victims,1,0.85
-thankyou   for taking a strong and immediate step in helping  nepal,1,0.85
-reading about all the help extended to nepal by different countries  seems like this world is still a good place to live  earthquake,1,0.85
-god s throne not shaken in nepal  imb worker says,0,0.7
-thank you   thank you for extending yourself to help the people of  nepalearthquake may u continue blessed by ur gods,1,0.85
-nepal was destroyed by an earthquake   baltimore by the ignorance  who deserves our prayers and help   prayersfornepal  nepalquakerelief,1,0.85
-less than 8 hours tragedy hit the nepal  goi is already rescuing d people in wax swing at nepal  feeling proud the way india is responding,1,0.85
-less than 8 hours tragedy hit the nepal  goi is already rescuing d people in full swing at nepal  feeling proud the direction india is responding,1,0.85
-people s response to this disaster has been moving and heartening  solidaritywiththosesuffering,0,0.7
-people s response to this tragedy has been moving and heartening  solidaritywiththosesuffering,0,0.7
-arnab is on  nepalearthquake since morn  doing a commendable job at that,0,0.7
-hour control room in ministry of external affairs  nepal thanks india for assistance   the economic times,0,0.7
-24 hour control room in ministry of external affairs  nepal thanks india for assistance   the economic times,1,0.85
-iaf nitrogen mea n indigo n jet n bsnl n many more   that s what when india extends help to it s neighbour   great response to  nepalquake,1,0.85
-iaf n mea n indigo n jet n bsiemensnl n many more   that s what when india extends help to it s neighbour   great response to  nepalquake,1,0.85
-less than 8 hours tragedy hit the nepal  goi is already rescuing d people in full swing at nepal  feeling proud the way of life india is responding,1,0.85
-people s response to this tragedy has been moving and heartening  solidaritywiththosesuffering,0,0.6
-iaf n mea n indigo n jet n bsnl n many more   that s what when india extends help to information technology s neighbour   great response to  nepalquake,1,0.85
-24 hour control room in ministry of external affairs  nepal thanks india for assistance   the economic times,1,0.85
-twenty four hour control room in ministry of external affairs  nepal thanks india for assistance   the economic times,1,0.85
-arnab is on  nepalearthquake since morn  doing a commendable job at that,0,0.7
-arnab is on  nepalearthquake since morn  doing a praiseworthily job at that,0,0.7
-iaf n mea n indigotin n jet n bsnl n many more   that s what when india extends help to it s neighbour   great response to  nepalquake,1,0.85
-arnab is on  nepalearthquake since morn  doing a commendable job atomic number  that,0,0.75
-thank you for reminding  he has a job to do and ppl are at risk  hurricaneharvey,0,0.7
-tragic scenes from  nepal  credit to both locals and government officials for responding so rapidly to the disaster,1,0.85
-thank you sir  for staying on top of our issues down here with the  hurricaneharvey  it truly means alot from the patriots of la   tx,0,0.7
-grt work done by u mr pm  u make us proud   amp  we proud on u   we proud on our army  they be done tremendous work in nepal,0,0.7
-great step sir    all our coworkers from nepal are worried about their families  it will help them alot,1,0.85
-aw thanks caitlynn  yeah they live in kathmandu so it s quite bad but they re all fine x,0,0.7
-thank you   we know you are behind this 100   hurricane harvey ain t new   selfishbastard,0,0.7
-thank you    you put america first   hurricaneharvey pic twitter com p6c3jj9vno,0,0.7
-great well done,0,0.7
-living as a proud citizen of a great nation  india,0,0.7
-thank you hurricane sandy for extended all of my college app deadlines  ãâãâ´ãâã¢ââãâãâ ãâãâ´ãâã¢ââãâãâ ãâãâ´ãâã¢ââãâãâ,0,0.7
-"profound gratitude 
+tweet,classification,confidence,reasoning,conversation
+is making india great  amp  also as the most admired countries in the world  indiawithnepal  yug,0,0.9,"The tweet does not contain any information related to disaster response or analysis. It seems to be more focused on national pride and international relations, which are not relevant to the research objective of analyzing disaster response events.","Initiator initial response: 0
+0.9
+The tweet does not contain any information related to disaster response or analysis. It seems to be more focused on national pride and international relations, which are not relevant to the research objective of analyzing disaster response events."
+thank s for our indian government who steped forward stretching their hand n helping  nepal victims,1,0.9,"The tweet mentions the Indian government's involvement in assisting victims of a disaster in Nepal, which is directly relevant to disaster response analysis. This aligns with the focus on timeliness and effectiveness of responses to specific event types, making it","Initiator initial response: 1
+0.8
+The tweet expresses gratitude towards the Indian government for their proactive assistance to Nepal victims, indicating a positive response to a disaster event. This makes it relevant for disaster response analysis, as it highlights the timeliness and effectiveness of governmental
+Critic response: The classification of the tweet as ""1"" (which typically denotes relevance to disaster response) is appropriate given the context. The tweet clearly mentions the Indian government's involvement in assisting victims of a disaster in Nepal, which aligns with the focus of disaster response analysis
+Initiator follow-up: 1
+0.9
+The tweet mentions the Indian government's involvement in assisting victims of a disaster in Nepal, which is directly relevant to disaster response analysis. This aligns with the focus on timeliness and effectiveness of responses to specific event types, making it"
+thankyou   for taking a strong and immediate step in helping  nepal,0,0.9,"The tweet likely lacks specific information or actionable insights relevant to disaster response analysis, such as details about the disaster's impact, response efforts, or coordination. The feedback suggests that the initial classification was correct, reinforcing high confidence in","Initiator initial response: 0
+0.7
+The tweet expresses gratitude for assistance to Nepal, but it lacks specific information about the disaster event, the type of response, or any actionable insights that could be directly useful for disaster response analysis. Therefore, it is classified as
+Critic response: The classification of the tweet as ""0"" (likely indicating it is not relevant or actionable for disaster response analysis) seems appropriate given the content of the tweet. However, the confidence level and reasoning provided could be improved for clarity and precision.
 
-for dr goff    other hero drs  doing  firstinhuman  cancer research 
+Critique
+Initiator follow-up: 0
+0.9
+The tweet likely lacks specific information or actionable insights relevant to disaster response analysis, such as details about the disaster's impact, response efforts, or coordination. The feedback suggests that the initial classification was correct, reinforcing high confidence in"
+reading about all the help extended to nepal by different countries  seems like this world is still a good place to live  earthquake,0,0.9,"The tweet lacks specific information or context that would make it useful for disaster response analysis, such as details about the disaster event, response efforts, or impact assessment.","Initiator initial response: 1
+0.8
+The tweet discusses international aid and support extended to Nepal following an earthquake, which is relevant to analyzing disaster response effectiveness and timeliness. The mention of specific aid efforts makes it useful for disaster response analysis, hence the classification of
+Critic response: The classification of the tweet as ""1"" (which typically indicates relevance to disaster response) seems appropriate given the context, but the reasoning and confidence level need refinement. Here's a detailed critique:
 
-thank you 
+1. **Classification Appropriateness**:
+   - The
+Initiator follow-up: 0
+0.9
+The tweet lacks specific information or context that would make it useful for disaster response analysis, such as details about the disaster event, response efforts, or impact assessment."
+god s throne not shaken in nepal  imb worker says,0,0.9,"The tweet likely contains content that is not directly related to actionable information or analysis for disaster response, such as opinions, general statements, or unrelated topics. The confidence level is high because the content does not provide specific data or","Initiator initial response: 0
+0.7
+The tweet does not provide specific information about the disaster event, response efforts, or impact, which makes it less useful for disaster response analysis. The mention of ""god's throne not shaken"" is metaphorical and does not
+Critic response: The classification of the tweet as ""0"" (likely indicating irrelevance or non-actionable information for disaster response) seems appropriate given the content of the tweet. However, the confidence level of 0.7 suggests some uncertainty, which might be due
+Initiator follow-up: 0
+0.9
+The tweet likely contains content that is not directly related to actionable information or analysis for disaster response, such as opinions, general statements, or unrelated topics. The confidence level is high because the content does not provide specific data or"
+thank you   thank you for extending yourself to help the people of  nepalearthquake may u continue blessed by ur gods,0,0.9,"The tweet expresses gratitude and blessings, which does not provide specific information or insights into the timeliness or effectiveness of disaster response efforts. Therefore, it is not useful for disaster response analysis.","Initiator initial response: 0
+0.7
+The tweet expresses gratitude and blessings but does not provide specific information or insights relevant to analyzing the timeliness or effectiveness of disaster response efforts.
+Critic response: The classification of the tweet as ""0"" suggests that it is considered irrelevant or not useful for analyzing disaster response efforts. The reasoning provided indicates that the tweet expresses gratitude and blessings but lacks specific information about the disaster response.
 
- hurricaneharvey",0,0.7
-thumbs up  facebook last night only way my friends to get their messages out    âã    nepalquake  kathmanduquake,0,0.7
-hats off to our pm for giving immediate help to  nepal  earthquake,1,0.85
-hats off to first responders  utility crews  and relief organizations facing  hurricaneharvey and leading the response and recovery ahead,1,0.85
-thank you ellen  donating would help  please support unicef relief effort     nepalearthquake  nepal,1,0.85
-great with the airport  help can get there  nepalquake,0,0.7
-mobile hospital with team of doctors taking off for  nepal   they will swing into action from dawn   great effort i d say   nepalearthquake,1,0.85
-gratitude towards indian government and indian people for support     nepalearthquake,0,0.7
-kudos for being proactive and extending help to nepal  couple of deaths in north bihar  amp  west bengal,1,0.75
-happy bday to uscg  they ll be on front lines helping rescue hurricane harvey s victims  please god protect these heroes,1,0.85
-kudos to indian government  ndrf team  state governments on their efforts to aid nepal in this time of crisis,1,0.85
-thank you to volunteers  search and rescue teams for being heroes  mabuhay kayo   rescuemarch,1,0.85
-the latest the travel virginia daily     thanks to     hurricaneharvey,0,0.6
-weather geeks everywhere rejoice when a hurricane forms   wxtx  wx  hurricaneharvey  txwx,0,0.7
-thank u to all on twitter 4 ur prayers   kindness  in houston tx bracing4 hurricane harvey  we all pull together no matter our differences,1,0.85
-thank you hurricane harvey,0,0.7
-thank you for staying focused on american people  hurricane harvey is priority  your support is critical  maga,0,0.7
-thank you sir  as we are battling hurricane harvey here in texas  we still remember a great man    thanksdrjoe god bless u,0,0.7
-thank you hurricane harvey  for giving me more time in dallas,0,0.85
-shoutout and prayers up to my pops who volunteered to work over night tonight to help protect and serve   hurricaneharvey,1,0.75
-appreciate your efforts  nepalearthquake,0,0.7
-thanks for worrying about the people   hurricaneharvey,0,0.7
-thank you  pres   from south louisiana  you re the best   we know we can count on you   hurricaneharvey  trumpcares,0,0.7
-thanks  jack  we hope you stay safe too   hurricaneharvey,0,0.7
-i m sure my mates in nyc will appreciate a bit of pixies in these dark days and nights  sandy  hurricainesandy,0,0.7
-nepal thanks west for concerned tweets    nepalearthquake,0,0.7
-thankyoupm for ur great support to the nepal and yes where are other helper who were very enthusiastic at d tym of pakistan,0,0.6
-thank you for taking in our friends from the coast during  hurricaneharvey,0,0.7
-great work guys  proud  indians  indiawithnepal,0,0.6
-thank you india for helping  nepalearthquake during these times  we r with you  nepal,1,0.85
-thank you debbie  mylesfriday  have an awesome weekend everyone  wish us luck in tx   hurricaneharvey,0,0.7
-beauty of indian army is their dedication towards duty    nepalearthquake,0,0.7
-better fill up your vehicles   hurricaneharvey expected to boost gas prices across the us  pic twitter com tujbckthuj,0,0.7
-due to  hurricaneharvey  our office will be closing at noon today  stay safe  everyone  pic twitter com co9ykpuwbj,0,0.7
-smallbiz hurricane harvey highlights importance of disaster preparations for businesses,1,0.85
-hurricane harvey highlights importance of disaster preparations for businesses  hurricane harvey is bringing d,1,0.85
-smallbiztrends  smallbizchat  smallbiztips hurricane harvey highlights importance of disaster preparations for,0,0.7
-hurricane harvey highlights importance of disaster preparations for businesses,1,0.85
-m7 8  nepal  earthquake   pager estimates massive economic losses could minimally equal 9   of nepal s economy,1,0.85
-live  oil prices jump as hurricane harvey moves toward us coastline    news via   usa,0,0.7
-rt   oil prices surge as texas braces for  hurricaneharvey,0,0.7
-hurricane harvey  hubby hauls gas for shell  companies in texas are shutting down  get ready  gas prices will spike,0,0.7
-oil prices surge as texas braces for  hurricaneharvey,0,0.7
-hurricane harvey could cause us gas prices to rise  with storm expected to hit refinery rich stretch of gulf coast,0,0.75
-gas prices already on the rise as texas braces for hurricane harvey  via fox biz,0,0.7
-gas prices at the pump rise as  hurricaneharvey comes ashore,0,0.7
-force 3 friday   hurricane harvey throws markets into turmoil,0,0.7
-"hurricane harvey sale  take advantage of 10  off of all walk packages until wednesday  
- 
-call",0,0.95
-home improvement stocks set to lead s p 500 after storm  new york  reuters    stocks in home improvement chains,0,0.85
-any analysis of possible ppv money loss for the mayweather mcgregor fight due to hurricane harvey,0,0.85
-treat with extreme caution but this is the usgs auto estimate of  nepal casualty probabilities,1,0.85
-google innovations lab executive dan fredinburg among victims of everest avalanche    nepalearthquake,0,0.7
-had a friend who was on everest today  thankfully she s ok but base camps 1 and 2 are gone and many other climbers are missing  prayfornepal,1,0.85
-nepal earthquake  hundreds die  many feared trapped   bbc news,1,0.85
-headache at its worst  nepal news  farmer suicide  few cricket mishaps taking a toll  it seems god hasn t been kind on humans these days,0,0.8
-does bloviating ignoramus racist schizophrenic trump know we had two naval accidents  with men dead  does he know about hurricane harvey,0,0.85
-marvellous997 avalanche sweeps everest in nepal  30 injured  kathmandu  nepal  ap  âãã aâã,1,0.85
-preliminary death toll from nepal home ministry is now 211  thousands have been injured,1,0.9
-sandy in  haiti 54 confirmed deaths were reported 20 injured and 20 missing  cc,1,0.85
-bbc news   nepal earthquake  more than 100 dead  many injured,1,0.85
-at least 39 dead millions without power in sandy s aftermath,1,0.9
+Critique:
+
+1. **
+Initiator follow-up: 0
+0.9
+The tweet expresses gratitude and blessings, which does not provide specific information or insights into the timeliness or effectiveness of disaster response efforts. Therefore, it is not useful for disaster response analysis."
+nepal was destroyed by an earthquake   baltimore by the ignorance  who deserves our prayers and help   prayersfornepal  nepalquakerelief,0,0.7,"The tweet does not provide specific information about a disaster event, response efforts, or any actionable insights that could be useful for analyzing disaster response effectiveness. It lacks context or details that would contribute to understanding the timeliness or effectiveness","Initiator initial response: 0
+0.7
+The tweet mentions a disaster-related event (earthquake in Nepal) and uses relevant hashtags, but it primarily focuses on a comparison with another unrelated issue (ignorance in Baltimore) and does not provide specific information about the disaster
+Critic response: The classification provided for the tweet is ""0,"" which typically indicates that the tweet is not relevant to disaster response. However, upon closer examination, this classification may not be entirely accurate. Let's break down the tweet and the reasoning provided:
+
+1. **
+Initiator follow-up: 0
+0.7
+The tweet does not provide specific information about a disaster event, response efforts, or any actionable insights that could be useful for analyzing disaster response effectiveness. It lacks context or details that would contribute to understanding the timeliness or effectiveness"
+less than 8 hours tragedy hit the nepal  goi is already rescuing d people in wax swing at nepal  feeling proud the way india is responding,1,0.9,"The tweet discusses the timeliness and effectiveness of India's response to a disaster in Nepal, which is relevant to analyzing disaster response events. The mention of rescue operations and the quick response time makes it useful for disaster response analysis.","Initiator initial response: 1
+0.9
+The tweet discusses the timeliness and effectiveness of India's response to a disaster in Nepal, which is relevant to analyzing disaster response events. The mention of rescue operations and the quick response time makes it useful for disaster response analysis."
+less than 8 hours tragedy hit the nepal  goi is already rescuing d people in full swing at nepal  feeling proud the direction india is responding,1,0.9,"The tweet provides information about the timeliness and effectiveness of the disaster response by the Government of India in Nepal, which is relevant for disaster response analysis.","Initiator initial response: 1
+0.9
+The tweet provides information about the timeliness and effectiveness of the disaster response by the Government of India in Nepal, which is relevant for disaster response analysis."
+people s response to this disaster has been moving and heartening  solidaritywiththosesuffering,0,0.9,"The tweet is primarily emotional, focusing on solidarity rather than providing actionable information or insights into the timeliness and effectiveness of disaster response efforts. This type of content is less likely to contribute to the analysis of disaster response events.","Initiator initial response: 0
+0.8
+The tweet expresses emotional support and solidarity, which is not directly useful for analyzing the timeliness and effectiveness of disaster response efforts.
+Critic response: The classification of the tweet as ""0"" indicates that it is considered not useful for analyzing the timeliness and effectiveness of disaster response efforts. The reasoning provided suggests that the tweet is primarily emotional in nature, focusing on solidarity rather than actionable information.
+
+Crit
+Initiator follow-up: 0
+0.9
+The tweet is primarily emotional, focusing on solidarity rather than providing actionable information or insights into the timeliness and effectiveness of disaster response efforts. This type of content is less likely to contribute to the analysis of disaster response events."
