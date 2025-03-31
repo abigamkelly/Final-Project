@@ -336,6 +336,7 @@ def multi_round_conversation(client, tweet, initial_classification, initial_conf
         followup_user_message = {"role": "user", "content": (
             f"Critic feedback (Round {round_count}): {critic_answer}\n"
             "Please provide an updated classification, confidence, and reasoning in the same format."
+            f"if your confidence is less or equal {RE_EVAL_THRESHOLD}, classify it as 0 and re-evaluate the confidence and reasoning."
         )}
         system_message = {"role": "system", "content": system_initiator}
         followup_messages = [system_message, followup_user_message]
@@ -386,6 +387,7 @@ def main():
     OUTPUT_CSV = "classified_tweets.csv"
     MAX_TWEETS = 100  # Increased from 10 to get better statistics
     TEST_SIZE = 0.2   # 20% of data for validation
+    RE_EVAL_THRESHOLD = 0.5 # if reEvaluation confidence is less or equal to RE_EVAL_THRESHOLD then classification is always 0 (disaster unrelated) and confidence is re-evaluated
     
     # Multi-round conversation settings
     MAX_CONVERSATION_ROUNDS = 3
@@ -527,6 +529,7 @@ This tweet uses disaster terminology metaphorically with no actual emergency.'''
             
             # Normalize the classification to ensure it's "0" or "1"
             classification = normalize_classification(classification, reasoning)
+
             
             # Store the predicted label and confidence score
             predicted_labels.append(classification)
@@ -587,7 +590,10 @@ This tweet uses disaster terminology metaphorically with no actual emergency.'''
                 classification = updated_classification
                 confidence = updated_confidence
                 reasoning = updated_reasoning
-                
+
+                # if (classification == 1 and confidence <=0.5):
+                #     classification = 0
+                    
                 # Update confidence history if true label is available
                 if true_label is not None:
                     try:
