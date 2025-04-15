@@ -1,0 +1,86 @@
+[
+    {
+        "tweet": "So you have a new weapon that can cause un-imaginable destruction.",
+        "original_tweet": "So you have a new weapon that can cause un-imaginable destruction.",
+        "classification": "0",
+        "confidence": "0.85",
+        "reasoning": "This tweet uses disaster-related terminology in a metaphorical context, discussing a weapon that can cause destruction without indicating any real-life emergency or crisis. It does not report an actual event or situation requiring immediate attention.",
+        "conversation": {
+            "initial_response": "0  \n0.85  \nThis tweet uses disaster-related terminology in a metaphorical context, discussing a weapon that can cause destruction without indicating any real-life emergency or crisis. It does not report an actual event or situation requiring immediate attention.",
+            "rounds": []
+        },
+        "true_label": null
+    },
+    {
+        "tweet": "The f$&amp;@ing things I do for #GISHWHES Just got soaked in a deluge going for pads and tampons. Thx @mishacollins @/@",
+        "original_tweet": "The f$&amp;@ing things I do for #GISHWHES Just got soaked in a deluge going for pads and tampons. Thx @mishacollins @/@",
+        "classification": "0",
+        "confidence": "0.92",
+        "reasoning": "This tweet uses disaster-related terminology (\"deluge\") in a metaphorical and casual context, referring to a personal experience rather than an actual emergency. It does not indicate a real-life crisis or require immediate attention.",
+        "conversation": {
+            "initial_response": "0  \n0.92  \nThis tweet uses disaster-related terminology (\"deluge\") in a metaphorical and casual context, referring to a personal experience rather than an actual emergency. It does not indicate a real-life crisis or require immediate attention.",
+            "rounds": []
+        },
+        "true_label": null
+    },
+    {
+        "tweet": "DT @georgegalloway: RT @Galloway4Mayor: ÛÏThe CoL police can catch a pickpocket in Liverpool Stree... http://t.co/vXIn1gOq4Q",
+        "original_tweet": "DT @georgegalloway: RT @Galloway4Mayor: ÛÏThe CoL police can catch a pickpocket in Liverpool Stree... http://t.co/vXIn1gOq4Q",
+        "classification": "0",
+        "confidence": "0.85",
+        "reasoning": "This tweet mentions police catching a pickpocket but does not indicate a real emergency or crisis. It appears to be discussing a specific incident in a casual context rather than reporting an urgent situation requiring immediate attention.",
+        "conversation": {
+            "initial_response": "0  \n0.85  \nThis tweet mentions police catching a pickpocket but does not indicate a real emergency or crisis. It appears to be discussing a specific incident in a casual context rather than reporting an urgent situation requiring immediate attention.",
+            "rounds": []
+        },
+        "true_label": null
+    },
+    {
+        "tweet": "Aftershock back to school kick off was great. I want to thank everyone for making it possible. What a great night.",
+        "original_tweet": "Aftershock back to school kick off was great. I want to thank everyone for making it possible. What a great night.",
+        "classification": "0",
+        "confidence": "0.92",
+        "reasoning": "This tweet uses the term \"aftershock\" in a metaphorical context related to a school event, rather than referring to an actual emergency or disaster. It expresses gratitude for a successful event without indicating any real-life crisis or urgency.",
+        "conversation": {
+            "initial_response": "0  \n0.92  \nThis tweet uses the term \"aftershock\" in a metaphorical context related to a school event, rather than referring to an actual emergency or disaster. It expresses gratitude for a successful event without indicating any real-life crisis or urgency.",
+            "rounds": []
+        },
+        "true_label": null
+    },
+    {
+        "tweet": "in response to trauma Children of Addicts develop a defensive self - one that decreases vulnerability. (3",
+        "original_tweet": "in response to trauma Children of Addicts develop a defensive self - one that decreases vulnerability. (3",
+        "classification": "0",
+        "confidence": "0.85",
+        "reasoning": "This tweet discusses the psychological effects of trauma on children of addicts, using the term \"trauma\" in a non-emergency context. It does not report an actual emergency or crisis, but rather reflects on a psychological concept.",
+        "conversation": {
+            "initial_response": "0  \n0.85  \nThis tweet discusses the psychological effects of trauma on children of addicts, using the term \"trauma\" in a non-emergency context. It does not report an actual emergency or crisis, but rather reflects on a psychological concept.",
+            "rounds": []
+        },
+        "true_label": null
+    },
+    {
+        "tweet": "my favorite lady came to our volunteer meeting\nhopefully joining her youth collision and i am excite http://t.co/Ij0wQ490cS",
+        "original_tweet": "my favorite lady came to our volunteer meeting\nhopefully joining her youth collision and i am excite http://t.co/Ij0wQ490cS",
+        "classification": "0",
+        "confidence": "0.92",
+        "reasoning": "This tweet does not report any actual emergencies or crises. It discusses a personal experience related to a volunteer meeting and expresses excitement about joining a youth group, which is not relevant to disaster response analysis.",
+        "conversation": {
+            "initial_response": "0  \n0.92  \nThis tweet does not report any actual emergencies or crises. It discusses a personal experience related to a volunteer meeting and expresses excitement about joining a youth group, which is not relevant to disaster response analysis.",
+            "rounds": []
+        },
+        "true_label": null
+    },
+    {
+        "tweet": "@brianroemmele UX fail of EMV - people want to insert and remove quickly like a gas pump stripe reader. 1 person told me it crashed the POS",
+        "original_tweet": "@brianroemmele UX fail of EMV - people want to insert and remove quickly like a gas pump stripe reader. 1 person told me it crashed the POS",
+        "classification": "0",
+        "confidence": "0.85",
+        "reasoning": "This tweet discusses a user experience issue with EMV (Europay, MasterCard, and Visa) payment systems, using the term \"fail\" in a metaphorical sense. It does not report an actual emergency or crisis, but rather a technical problem that does not require immediate attention.",
+        "conversation": {
+            "initial_response": "0  \n0.85  \nThis tweet discusses a user experience issue with EMV (Europay, MasterCard, and Visa) payment systems, using the term \"fail\" in a metaphorical sense. It does not report an actual emergency or crisis, but rather a technical problem that does not require immediate attention.",
+            "rounds": []
+        },
+        "true_label": null
+    }
+]
