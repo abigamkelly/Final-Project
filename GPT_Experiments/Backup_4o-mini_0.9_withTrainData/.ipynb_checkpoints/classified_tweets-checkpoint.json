@@ -1,0 +1,119 @@
+[
+    {
+        "tweet": "So you have a new weapon that can cause un-imaginable destruction.",
+        "original_tweet": "So you have a new weapon that can cause un-imaginable destruction.",
+        "classification": "0",
+        "confidence": "0.90",
+        "reasoning": "The tweet uses the term \"destruction\" in a metaphorical context, likely referring to a weapon's capabilities rather than reporting an actual emergency or crisis. There is no indication of a real-life event or situation requiring immediate attention, which aligns with the classification of not useful for disaster response analysis.",
+        "conversation": {
+            "initial_response": "0  \n0.90  \nThe tweet uses the term \"destruction\" in a metaphorical context, likely referring to a weapon's capabilities rather than reporting an actual emergency or crisis. There is no indication of a real-life event or situation requiring immediate attention, which aligns with the classification of not useful for disaster response analysis.",
+            "rounds": []
+        },
+        "true_label": 1
+    },
+    {
+        "tweet": "The f$&amp;@ing things I do for #GISHWHES Just got soaked in a deluge going for pads and tampons. Thx @mishacollins @/@",
+        "original_tweet": "The f$&amp;@ing things I do for #GISHWHES Just got soaked in a deluge going for pads and tampons. Thx @mishacollins @/@",
+        "classification": "0",
+        "confidence": "0.85",
+        "reasoning": "The tweet uses the hashtag #GISHWHES, which is associated with a whimsical scavenger hunt event, and describes a personal experience of getting soaked in rain while shopping for personal items. It does not report an actual emergency or crisis but rather reflects a humorous or casual situation. The language and context suggest it is not relevant for disaster response analysis.",
+        "conversation": {
+            "initial_response": {
+                "classification": "0",
+                "confidence": "0.85",
+                "reasoning": "The tweet uses the hashtag #GISHWHES, which is associated with a whimsical scavenger hunt event, and describes a personal experience of getting soaked in rain while shopping for personal items. It does not report an actual emergency or crisis but rather reflects a humorous or casual situation. The language and context suggest it is not relevant for disaster response analysis."
+            },
+            "rounds": [],
+            "escalations": [
+                {
+                    "expert_level": 1,
+                    "message": "Escalating from expert level 1 due to low confidence (current: 0.85, threshold: 0.9)."
+                }
+            ],
+            "summary": "All expert levels exhausted."
+        },
+        "true_label": 0
+    },
+    {
+        "tweet": "DT @georgegalloway: RT @Galloway4Mayor: ÛÏThe CoL police can catch a pickpocket in Liverpool Stree... http://t.co/vXIn1gOq4Q",
+        "original_tweet": "DT @georgegalloway: RT @Galloway4Mayor: ÛÏThe CoL police can catch a pickpocket in Liverpool Stree... http://t.co/vXIn1gOq4Q",
+        "classification": "0",
+        "confidence": "0.90",
+        "reasoning": "The tweet does not report an actual emergency, accident, or crisis. It appears to be a retweet discussing police actions in a non-urgent context, likely related to crime but not indicating a disaster or emergency situation. The use of the term \"pickpocket\" does not imply a disaster, and the overall tone suggests a casual mention rather than a report of a real-life emergency.",
+        "conversation": {
+            "initial_response": "0  \n0.90  \nThe tweet does not report an actual emergency, accident, or crisis. It appears to be a retweet discussing police actions in a non-urgent context, likely related to crime but not indicating a disaster or emergency situation. The use of the term \"pickpocket\" does not imply a disaster, and the overall tone suggests a casual mention rather than a report of a real-life emergency.",
+            "rounds": []
+        },
+        "true_label": 1
+    },
+    {
+        "tweet": "Aftershock back to school kick off was great. I want to thank everyone for making it possible. What a great night.",
+        "original_tweet": "Aftershock back to school kick off was great. I want to thank everyone for making it possible. What a great night.",
+        "classification": "0",
+        "confidence": "0.95",
+        "reasoning": "The tweet uses the term \"aftershock\" in a non-emergency context, referring to a school event rather than a seismic event. It expresses gratitude for a successful occasion and does not indicate any real-life emergencies or crises. Therefore, it should be classified as not useful for disaster response analysis.",
+        "conversation": {
+            "initial_response": "0  \n0.95  \nThe tweet uses the term \"aftershock\" in a non-emergency context, referring to a school event rather than a seismic event. It expresses gratitude for a successful occasion and does not indicate any real-life emergencies or crises. Therefore, it should be classified as not useful for disaster response analysis.",
+            "rounds": []
+        },
+        "true_label": 0
+    },
+    {
+        "tweet": "in response to trauma Children of Addicts develop a defensive self - one that decreases vulnerability. (3",
+        "original_tweet": "in response to trauma Children of Addicts develop a defensive self - one that decreases vulnerability. (3",
+        "classification": "0",
+        "confidence": "0.75",
+        "reasoning": "The tweet discusses the psychological impact of trauma on children of addicts, which is a metaphorical use of the term \"trauma\" rather than reporting an actual emergency or crisis. It does not indicate a real-life emergency situation or a need for immediate attention, thus it is classified as not useful for disaster response analysis. The confidence score reflects a moderate level of certainty due to the context being somewhat related to trauma but not directly linked to a disaster response scenario.",
+        "conversation": {
+            "initial_response": {
+                "classification": "0",
+                "confidence": "0.75",
+                "reasoning": "The tweet discusses the psychological impact of trauma on children of addicts, which is a metaphorical use of the term \"trauma\" rather than reporting an actual emergency or crisis. It does not indicate a real-life emergency situation or a need for immediate attention, thus it is classified as not useful for disaster response analysis. The confidence score reflects a moderate level of certainty due to the context being somewhat related to trauma but not directly linked to a disaster response scenario."
+            },
+            "rounds": [],
+            "escalations": [
+                {
+                    "expert_level": 1,
+                    "message": "Escalating from expert level 1 due to low confidence (current: 0.75, threshold: 0.9)."
+                }
+            ],
+            "summary": "All expert levels exhausted."
+        },
+        "true_label": 0
+    },
+    {
+        "tweet": "my favorite lady came to our volunteer meeting\nhopefully joining her youth collision and i am excite http://t.co/Ij0wQ490cS",
+        "original_tweet": "my favorite lady came to our volunteer meeting\nhopefully joining her youth collision and i am excite http://t.co/Ij0wQ490cS",
+        "classification": "0",
+        "confidence": "0.95",
+        "reasoning": "The tweet does not report any actual emergencies, accidents, or crises. It appears to be a casual mention of a volunteer meeting and expresses excitement about joining a youth collision, which does not indicate a real-life emergency. The use of the term \"collision\" here seems metaphorical or related to a group activity rather than a disaster context. Therefore, it is classified as not useful for disaster response analysis.",
+        "conversation": {
+            "initial_response": "0  \n0.95  \nThe tweet does not report any actual emergencies, accidents, or crises. It appears to be a casual mention of a volunteer meeting and expresses excitement about joining a youth collision, which does not indicate a real-life emergency. The use of the term \"collision\" here seems metaphorical or related to a group activity rather than a disaster context. Therefore, it is classified as not useful for disaster response analysis.",
+            "rounds": []
+        },
+        "true_label": 1
+    },
+    {
+        "tweet": "@brianroemmele UX fail of EMV - people want to insert and remove quickly like a gas pump stripe reader. 1 person told me it crashed the POS",
+        "original_tweet": "@brianroemmele UX fail of EMV - people want to insert and remove quickly like a gas pump stripe reader. 1 person told me it crashed the POS",
+        "classification": "0",
+        "confidence": "0.85",
+        "reasoning": "The tweet discusses a user experience failure related to EMV (Europay, MasterCard, and Visa) payment systems, specifically mentioning a problem with point-of-sale (POS) systems crashing. While it uses terms that could relate to emergencies (like \"crashed\"), it does not report an actual emergency or crisis. Instead, it appears to be a critique of technology rather than a report of a disaster or urgent situation. The metaphorical use of \"crashed\" in this context suggests a non-urgent issue, leading to the classification of 0.",
+        "conversation": {
+            "initial_response": {
+                "classification": "0",
+                "confidence": "0.85",
+                "reasoning": "The tweet discusses a user experience failure related to EMV (Europay, MasterCard, and Visa) payment systems, specifically mentioning a problem with point-of-sale (POS) systems crashing. While it uses terms that could relate to emergencies (like \"crashed\"), it does not report an actual emergency or crisis. Instead, it appears to be a critique of technology rather than a report of a disaster or urgent situation. The metaphorical use of \"crashed\" in this context suggests a non-urgent issue, leading to the classification of 0."
+            },
+            "rounds": [],
+            "escalations": [
+                {
+                    "expert_level": 1,
+                    "message": "Escalating from expert level 1 due to low confidence (current: 0.85, threshold: 0.9)."
+                }
+            ],
+            "summary": "All expert levels exhausted."
+        },
+        "true_label": 1
+    }
+]
