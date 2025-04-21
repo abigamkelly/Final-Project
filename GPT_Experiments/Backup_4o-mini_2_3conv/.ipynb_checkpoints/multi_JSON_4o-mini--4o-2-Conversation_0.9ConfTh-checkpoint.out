@@ -1,0 +1,1623 @@
+Loading and preprocessing data...
+Processing 1523 tweets...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 1: So you have a new weapon that can cause un-imagina...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 2: The f$&amp;@ing things I do for #GISHWHES Just got...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 3: DT @georgegalloway: RT @Galloway4Mayor: ÛÏThe CoL...
+Processing tweet 4: Aftershock back to school kick off was great. I wa...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 5: in response to trauma Children of Addicts develop ...
+Error processing tweet: @Calum5SOS you look like you got caught in a rains... 
+Error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400, 'innererror': {'code': 'ResponsibleAIPolicyViolation', 'content_filter_result': {'hate': {'filtered': True, 'severity': 'medium'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+Processing tweet 7: my favorite lady came to our volunteer meeting
+hop...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 8: @brianroemmele UX fail of EMV - people want to ins...
+Processing tweet 9: Can't find my ariana grande shirt  this is a fucki...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 10: The Murderous Story Of AmericaÛªs First Hijacking...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 11: AKILAH WORLD NEWS Cop pulls man from car to avoid ...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 12: We walk the plank of a sinking ship...
+Processing tweet 13: @Zak_Bagans pets r like part of the family. I love...
+Processing tweet 14: ON THE USE OF PERFORATED METAL SHEAR PANEL SFOR SE...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 15: The answer my friend is yelling in the wind-my lat...
+Error processing tweet: Woman electrocuted #Red #Redblood #videoclip http:... 
+Error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400, 'innererror': {'code': 'ResponsibleAIPolicyViolation', 'content_filter_result': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': True, 'severity': 'medium'}}}}}
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 17: Who is bringing the tornadoes and floods. Who is b...
+Error processing tweet: So these savages leaked Thomas Brady gangstermail ... 
+Error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400, 'innererror': {'code': 'ResponsibleAIPolicyViolation', 'content_filter_result': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': True, 'severity': 'medium'}}}}}
+Processing tweet 19: Malaysia Airlines Flight 370 that Disappeared 17mo...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 20: People are finally panicking about cable TV http:/...
+Processing tweet 21: Nepal earthquake 3 months on: Women fear abuse htt...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 22: Escape The Heat (and the #ORShow) for a trail run ...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 23: @marginoferror I wish going custom ROM weren't so ...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 24: @ZachLowe_NBA there are a few reasons for that but...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 25: illegal alien released by Obama/DHS 4 times Charge...
+Error processing tweet: @BloopAndABlast Because I need to know if I'm supp... 
+Error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400, 'innererror': {'code': 'ResponsibleAIPolicyViolation', 'content_filter_result': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': True, 'severity': 'medium'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}}}
+Processing tweet 27: ! Residents Return To Destroyed Homes As Washingto...
+Processing tweet 28: 4 kidnapped ladies rescued by police in Enugu | Ni...
+Processing tweet 29: Hiroshima survivors fight nuclear industry in Braz...
+Processing tweet 30: Stuart Broad Takes Eight Before Joe Root Runs Riot...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 31: @MyVintageSoul ...of the British upper class and h...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 32: Neighbor kids stopped to watch me play Disney's I ...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 33: I added a video to a @YouTube playlist http://t.co...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 34: As of the 6-month mark there were a total of 662 f...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 35: @Kinder_Morgan can'twon't tell @cityofkamloops how...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 36: she's a suicide bomb...
+Error processing tweet: Pandemonium In Aba As Woman Delivers Baby Without ... 
+Error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400, 'innererror': {'code': 'ResponsibleAIPolicyViolation', 'content_filter_result': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': True, 'severity': 'medium'}}}}}
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 38: Hey #AZ: Sign this petition to save the #WildHorse...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 39: Why does my phone electrocute me when it's chargin...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 40: Dear @CanonUSAimaging I brought it ;) #CanonBringI...
+Processing tweet 41: My mama scared of the thunder ????...
+Processing tweet 42: Breakfast links: Work from home: Derailed: An empt...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 43: #wired #business Reddit Will Now Quarantine Offens...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 44: It's a miracle that mankind survived 70 years sinc...
+Processing tweet 45: What a wonderful day!...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 46: @pattonoswalt @FoxNews Wait I thought Fecal Hurric...
+Processing tweet 47: California wildfires force thousands to evacuate: ...
+Processing tweet 48: Remove the http://t.co/Xxj2B4JxRt and Linkury Brow...
+Processing tweet 49: myGC: Broken powerlines evacuate Gold Coast tram s...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 50: 'The Reagan Administration had arranged for Israel...
+Processing tweet 51: #HSE releases annual workplace facilities data. Ha...
+Processing tweet 52: #??? #?? #??? #??? MH370: Aircraft debris found on...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 53: @PhilipDuncan @breakfastone People 'annihilated by...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 54: @a__cee DAEM GIRL SMOOTH ASF c: ?...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 55: When your heart is bigger than the obstacles  in f...
+Error processing tweet: [Withering] to death. is an album found when he [u... 
+Error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400, 'innererror': {'code': 'ResponsibleAIPolicyViolation', 'content_filter_result': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': True, 'severity': 'medium'}}}}}
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 57: FedEx no longer to transport bioterror germs in wa...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 58: @AmirKingKhan you would have been annihilated so y...
+Processing tweet 59: TodayÛªs storm will pass; let tomorrowÛªs light ...
+Processing tweet 60: Battlefield 4 Funny Moments - Dukes of Hazard Unde...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 61: Magic City Mayhem: Kissimmee adventures ? Aug. 5 2...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 62: Social Casualty #MTVHottest 5SOS...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 63: Watch This Airport Get Swallowed Up By A Sandstorm...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 64: #LukeBox something about first responders/ militar...
+Processing tweet 65: BODY BAGS! https://t.co/0McXc68GZD...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 66: FedEx not willing to transport research specimens ...
+Processing tweet 67: Red Cross re-opens shelter at Bickleton School aft...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 68: my ears are bleeding i hate stefano...
+Error processing tweet: Hellfire! We donÛªt even want to think about it o... 
+Error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400, 'innererror': {'code': 'ResponsibleAIPolicyViolation', 'content_filter_result': {'hate': {'filtered': True, 'severity': 'high'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': True, 'severity': 'high'}}}}}
+Processing tweet 70: Do you know anyone looking to move to Hammond OR? ...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 71: New and now: Different (FNaF fanfiction): Trixie_d...
+Processing tweet 72: Reddit updates content policy promises to quaranti...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 73: Don't think for one second I'm out to drown your m...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 74: Crackdown 3 Destruction Restricted to Multiplayer:...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 75: NHS England announces new plan to meet emergency c...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 76: #Autoinsurance industry clueless on #driverlesscar...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 77: @raineishida lol...Im just a nervous wreck :P...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 78: Oh shit its rly sheeting
+Aaaaaand there's the thun...
+Processing tweet 79: Crushed the gym then crushed a butterfinger flurry...
+Processing tweet 80: @nxwestmidlands huge fire at Wholesale markets abl...
+Processing tweet 81: #tubestrike derailed you? Our #robertwelch cutlery...
+Processing tweet 82: Obliterated...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 83: U.S National Park Services Tonto National Forest: ...
+Processing tweet 84: #breakingnews Rly tragedy in MP: Some live to reco...
+Processing tweet 85: New Expansion Ideas - Bard Class Holy Trinity + 1 ...
+Error processing tweet: Wtf this mom just drowned her child?!... 
+Error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400, 'innererror': {'code': 'ResponsibleAIPolicyViolation', 'content_filter_result': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': True, 'severity': 'medium'}}}}}
+Processing tweet 87: Route Complex AM Fire Update (Route Complex Wildfi...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 88: The #tubestrike is because TFL workers may have tr...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 89: After death of Palestinian toddler in arson
+attack...
+Processing tweet 90: So cool @GarbanzoBean23 in the news! Cutest INDOT ...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 91: I totally agree. They rape kill destroy and leave ...
+Processing tweet 92: another day another excellent @_dangerousbeans por...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 93: @Eric_Tsunami worry about yourself...
+Error processing tweet: #ThingsIhate 
+Watching someone you care about head... 
+Error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400, 'innererror': {'code': 'ResponsibleAIPolicyViolation', 'content_filter_result': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': True, 'severity': 'medium'}}}}}
+Processing tweet 95: @sethalphaeus my personal favorites include paramo...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 96: @FlyOpineMonkey You mean Olympic ;-) 
+Also its fol...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 97: Fairfax investigating firefighter over Facebook po...
+Processing tweet 98: RT @RTRRTcoach: #Love #TrueLove #romance lith  #Vo...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Error processing tweet: BLOG: Rain much needed as drought conditions worse... 
+Error: Connection error.
+Error processing tweet: @Rebelmage2 I'm glad you got away XD But My 'be sa... 
+Error: Connection error.
+Error processing tweet: Sitting still in the #CityofMemphis traffic is lik... 
+Error: Connection error.
+Error processing tweet: Seriously do we have to do a tactical riot against... 
+Error: Connection error.
+Error processing tweet: Lmao that light skin guy blew up on Twitter by tal... 
+Error: Connection error.
+Error processing tweet: I just screamed what the fuck is a hond... 
+Error: Connection error.
+Error processing tweet: So if I capsize on your thighs high tide B-5 you s... 
+Error: Connection error.
+Processing tweet 106: @zaynmalik don't overwork yourself. Your album is ...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 107: Armageddon averted by El Patron
+#UltimaLucha...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 108: Exploring New Worlds: Three Moments of an Explosio...
+Processing tweet 109: Rocky fire in Northern California swells to 60000 ...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 110: @DaneMillar1 *screams 666*...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 111: Warne shocked over Australia's epic collapse at Tr...
+Processing tweet 112: Reality Training: Train falls off elevated tracks ...
+Processing tweet 113: Updated #RockyFire map with Mandatory Evacuation a...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 114: Back to the future in #Vanuatu how Cyclone Pam has...
+Processing tweet 115: new summer long thin body bag hip A word skirt Blu...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 116: #hot  C-130 specially modified to land in a stadiu...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 117: The Secrets Of The Storm Vortex The Lightning Catc...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 118: Dust devil maintenance fee - buy up la rotary stor...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 119: @BattleRoyaleMod when they die they just get telep...
+Processing tweet 120: If you wanna smoke cigs that's your own problem bu...
+Processing tweet 121: UD: Rescue (Structural Collapse) - Scott Road @ Yp...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 122: New crime: knowing your rights. Punishable by deat...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 123: Detonation quotes - my esteemed belt quotes regard...
+Processing tweet 124: Discovered Plane Debris Is From Missing Malaysia A...
+Processing tweet 125: This was Boston yesterday after an intense hailsto...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 126: @danielsahyounie It'd be so bomb if u guys won ??...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 127: Bayelsa poll: Tension in Bayelsa as Patience Jonat...
+Processing tweet 128: Gunmen kill four in El Salvador bus attack: Suspec...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 129: Method in contemplation of incident an leading bri...
+Processing tweet 130: Zicac Vintage Leather Briefcase Messenger Satchel ...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 131: 950. If a landslide tumbles down todayI'm on your ...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 132: So the Ahamedis think the Messiah had already come...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 133: @camilacabello97 Internally and externally screami...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 134: @engineermataRAI ate mataas kc rating..but they di...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 135: @AminESPN Mencius tears are worse correct? Takes t...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 136: Signing a petition to seek mercy on a death punish...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 137: A traumatised dog that was found buried up to its ...
+Processing tweet 138: When you see your crush in the stands. (Vine by @K...
+Processing tweet 139: Spot Flood Combo 53inch 300W Curved Cree LED Work ...
+Processing tweet 140: Madhya Pradesh Train Derailment: Village Youth Sav...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 141: Remaining Sections Of Greystone Psychiatric Hospit...
+Processing tweet 142: INVESTMENT NEWS Keurig Green Mountain Inc. Third-Q...
+Error processing tweet: @bbclaurak Why is no one talking about the risk of... 
+Error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400, 'innererror': {'code': 'ResponsibleAIPolicyViolation', 'content_filter_result': {'hate': {'filtered': False, 'severity': 'low'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': True, 'severity': 'medium'}}}}}
+Error processing tweet: @halljh1720. I am so sick of criminals parents and... 
+Error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400, 'innererror': {'code': 'ResponsibleAIPolicyViolation', 'content_filter_result': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': True, 'severity': 'medium'}}}}}
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 145: Don't say @ALIPAPER: women got problems this #keep...
+Processing tweet 146: Businesses are|deluged with invoices. Make y urs s...
+Processing tweet 147: #stormchase Violent Record Breaking EF-5 El Reno O...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 148: Friendly reminder that the only country to ever us...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 149: I still have not heard Church Leaders of Kenya com...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 150: @KatRamsland Yes I'm a bleeding heart liberal....
+Processing tweet 151: Latest: Landslide kills three near Venice after he...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 152: Pharma overloaded with a loud cry like an emergenc...
+Processing tweet 153: Railway Minister Prabhu calls MP derailment a natu...
+Error processing tweet: Watching a man electrocuted on the roof of #mumbai... 
+Error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400, 'innererror': {'code': 'ResponsibleAIPolicyViolation', 'content_filter_result': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': True, 'severity': 'medium'}}}}}
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 155: FedEx no longer to transport bioterror germs in wa...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 156: Coastal German Shepherd Rescue OC shared a link: '...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 157: @eunice_njoki aiii she needs to chill and answer c...
+Processing tweet 158: Malaysia confirms plane debris washed up on Reunio...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 159: Over half of poll respondents worry nuclear disast...
+Processing tweet 160: Me watching Law &amp; Order (IB: @sauldale305) (Vi...
+Processing tweet 161: Please stand up for bees against profit-hungry che...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 162: I am not an American but I have family who have se...
+Processing tweet 163: Very sad to learn of the derailment of 2 trains in...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 164: Putin's plan to destroy Western food en masse is c...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 165: ITS A TIE DYE EXPLOSION ON IG HELP ME. IM DROWNING...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 166: EXCLUSIVE: In 179 fatalities involving on-duty NYP...
+Processing tweet 167: At the #999day Emergency Services display! Meeting...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 168: Progressive greetings!
+
+In about a month students ...
+Processing tweet 169: Swiss Kosher Hotel Bridge Collapse Injures Five Pe...
+Processing tweet 170: Get a load of this welfare loving sponge....a blig...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 171: #PBBan (Temporary:300) fighterdena @'aRmageddon | ...
+Error processing tweet: @TheSmallClark 'He'll kill me instead if he surviv... 
+Error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400, 'innererror': {'code': 'ResponsibleAIPolicyViolation', 'content_filter_result': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': True, 'severity': 'medium'}}}}}
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 173: One thing you can be sure of. There will never be ...
+Processing tweet 174: @Trollkrattos Juan Carlos Salvador The Secret Tips...
+Processing tweet 175: Ignition Knock (Detonation) Sensor-Senso Standard ...
+Processing tweet 176: #quote Never let your problems ruin your faith....
+Error processing tweet: Nuu that FAM?? fwt I'm Leave You In a Body bag??... 
+Error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400, 'innererror': {'code': 'ResponsibleAIPolicyViolation', 'content_filter_result': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': True, 'severity': 'medium'}}}}}
+Processing tweet 178: 2 Injured 1 missing in bridge collapse in central ...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 179: God forbid this is true #California has enough pro...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 180: #helpme what do I do? My friend has been ticketed ...
+Error processing tweet: @Allahsfinest12 ...death to muslims... 
+Error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400, 'innererror': {'code': 'ResponsibleAIPolicyViolation', 'content_filter_result': {'hate': {'filtered': True, 'severity': 'high'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': True, 'severity': 'high'}}}}}
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 182: When the Last Tree Is Cut Down the Last Fish Eaten...
+Processing tweet 183: yeah 1:57  |  Lamb Of God - Rock Am Ring 2015 - In...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 184: 2 Burning Man Tickets + Vehicle Pass - Full read b...
+Processing tweet 185: USA: BREAKING NEWS: CHEMICAL SPILL/EVACUATIONS/RED...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Error processing tweet: Someone split a mudslide w me when I get off work... 
+Error: 'NoneType' object has no attribute 'strip'
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 187: #Tigers Wonder how much the upheaval with team is ...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 188: Even if u have your weapon and your badge we gonna...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 189: I have never screamed so loud https://t.co/PC3h1NE...
+Processing tweet 190: Lyf needs quality and a certain sense of security....
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 191: @christinalavv @lindsay_wynn3 I just saw these twe...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 192: It was finally demolished in the spring of 2013 an...
+Processing tweet 193: Large explosion rocks aluminum plant in southeast ...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 194: Deepak Chopra's EPIC Twitter Meltdown http://t.co/...
+Error processing tweet: on the flip side I'm at Walmart and there is a bom... 
+Error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400, 'innererror': {'code': 'ResponsibleAIPolicyViolation', 'content_filter_result': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': True, 'severity': 'medium'}}}}}
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 196: I don't understand 'taking' ANY life as a trophy. ...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 197: @mallelis have you gotten to the post-battle we're...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 198: @NWSPocatello BG-16: So far brunt of storm just to...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 199: I've been trying to write a theological short stor...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 200: #Metepec #Mexico - ?NIGHT DISASTER?...E(Oficial) @...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 201: @alextucker VOLCANO BOWL DRINK...
+Processing tweet 202: The 8-Minute Fat-Burning Routine ThatÛªs Also Rea...
+Processing tweet 203: Factors to Consider When Hiring a Demolition Compa...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 204: #TBT Remember that time Patrick Kane attacked a ca...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 205: You messed up my feeling like a hurricane damaged ...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 206: We are totally unprepared for an EMP attack. Both ...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 207: @Youssefyamani add Fez weather to the equation and...
+Processing tweet 208: Property/casualty insurance rates up 1% in July: A...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 209: I still don't know how 8 hours of physical activit...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 210: Set goals &amp; DEMOLISH them all! ?...
+Processing tweet 211: nbanews Soudelor Typhoon Soudelor is taking dead a...
+Processing tweet 212: On 1st August #Turkish jets bombed the village Zer...
+Processing tweet 213: Firefighters from Connecticut are headed to Califo...
+Processing tweet 214: Wreckage 'Conclusively Confirmed' as From MH370: M...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 215: Kevin Tan says hail to the chefs - Û_ and Green P...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 216: @biggangVH1 looks like George was having a panic a...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Processing tweet 217: Governor weighs parole for California school bus h...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 218: Oops: Bounty hunters try to raid Phoenix police ch...
+Processing tweet 219: Entire town of Roosevelt Wash. evacuated because o...
+Processing tweet 220: Many thx for share and your comment Alex Lightman ...
+Processing tweet 221: BUT I will be uploading these videos ASAP so you g...
+Processing tweet 222: Storm in RI worse than last hurricane. My city&amp...
+Processing tweet 223: #SigAlert: North &amp; Southbound 133 closed btwn ...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 224: 'I'm a cyclone passion overblown' https://t.co/MmZ...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 225: @News@ Refugio oil spill may have been costlier bi...
+Processing tweet 226: INEC Office in Abia Set Ablaze - http://t.co/3Imao...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 227: #entertainment Hollywood movie about trapped miner...
+Processing tweet 228: Check out 'Want Twister Tickets AND A VIP EXPERIEN...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 229: There has not been 1 real tear out of #Shelli 's e...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 230: Aug. 06 2015 Radio Show articles ÛÒ  
+1] Eyewitne...
+Processing tweet 231: @likeavillasboas @rich_chandler Being' injury pron...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 232: descended or sunk however it may be to the shadowe...
+Error processing tweet: Islamic State group in Egypt threatens to kill Cro... 
+Error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400, 'innererror': {'code': 'ResponsibleAIPolicyViolation', 'content_filter_result': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': True, 'severity': 'high'}}}}}
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 234: not a catastrophe at all I'm perfectly content. be...
+Processing tweet 235: Businesses abe deluged with invoices. Make yours s...
+Processing tweet 236: .@bigperm28 was drafted by the @Avalanche in 2005 ...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 237: @KingGerudo_ to the largest moblin's he'd leaving ...
+Processing tweet 238: How to remove http://t.co/HRSfA8zujI BrowseråÊHija...
+Processing tweet 239: 9 Mile backup on I-77 South...accident blocking th...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 240: @MeryCormier haha! Exactly! Cosima is definitely i...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 241: @batfanuk we enjoyed the show today. Great fun. Th...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 242: EUROCRISIS Guardian Greece's tax revenues collapse...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 243: I'm about to cook your Smokey the Bear saving fore...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 244: Û÷Hijacker copsÛª back in the dock - http://t.co...
+Processing tweet 245: #poster #ergo Rotator #cuff injury recovery kit: h...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 246: If you dotish to blight your car go right ahead. O...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 247: the pastor was not in the scene of the accident......
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 248: The shooting or the airplane accident  https://t.c...
+Error processing tweet: @Eazzy_P we will never know what would have happen... 
+Error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400, 'innererror': {'code': 'ResponsibleAIPolicyViolation', 'content_filter_result': {'hate': {'filtered': True, 'severity': 'high'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': True, 'severity': 'medium'}}}}}
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 250: Happy no one was hurt when #wmata train derailed. ...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 251: Yessum I'm traumatised ??...
+Processing tweet 252: OUN continues Severe Thunderstorm Warning for Okla...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 253: Escaping her captors was the 1st step. Now she mus...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 254: This bed looks like a war zone....
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 255: @AisuMage @AkumaReisu --just between Gray and Ophe...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 256: Talk on GOZ is fantastic. Most interesting fact so...
+Processing tweet 257: WOOOOOOO RT @GameRant: Call of Duty: Black Ops 3 e...
+Processing tweet 258: Strong Thunderstorm 4 Miles North of Japton Moving...
+Processing tweet 259: I liked a @YouTube video http://t.co/TNXQuOr1wb Ka...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 260: Going to a fest? Bring swimming goggles for the du...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 261: Dying of Lyme disease: Case fatality rate nearly 1...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 262: dogs Lightning reshapes rocks at the atomic level ...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 263: These wild fires out west are crazy....
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 264: @almusafirah_ you feel trapped innit ??...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 265: Traffic Collision - No Injury: I5 S at I5 S 43rd A...
+Processing tweet 266: Chilli heat wave Doritos never fail!...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 2
+Initiator follow-up response from Expert Level 1, Round 2
+Talking to Expert Level 1, Round 3: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 3
+Initiator follow-up response from Expert Level 1, Round 3
+Processing tweet 267: Zouma has just flattened him there ?? #CFC...
+Talking to Expert Level 1, Round 1: Sending tweet and current classification for critique.
+Received from Expert Level 1, Round 1
+Initiator follow-up response from Expert Level 1, Round 1
+Talking to Expert Level 1, Round 2: Sending tweet and current classification for critique.
