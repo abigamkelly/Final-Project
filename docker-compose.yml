@@ -1,8 +1,0 @@
-version: '3.9'
-services:
-  openai-flask:
-    build:
-      context: https://github.com/abigamkelly/Final-Project.git
-    ports:
-      - "5000:5000"
-
