@@ -12,3 +12,5 @@ This github includes the code for our disaster tweet classification framework.  
  4) Place the api_key.txt in the respective folder of the model you want to run
  5) Open the terminal
  6) To run the model, type **python [python_filename]**
+
+Note: to run the BERT model, you can open the .ipynb file and run all the cells.
