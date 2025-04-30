@@ -3,6 +3,8 @@ This github includes the code for our disaster tweet classification framework.  
   * Final_Azure_Experiments: this folder holds the experiements using the AzureAI GPT models
   * data: this folder holds the test and train data
   * BERT_Experiments: this folder holds the experiments using the BERT model
+  * Hybrid_Approach: Code for hybrid approach
+
 
 
 ### How to Configure and Run
